@@ -1,8 +1,8 @@
 ---
-title: Markdown
-date: "2015-05-28T22:40:32.169Z"
+title: Markdown Example
+date: "2018-05-12T22:40:32.169Z"
 layout: post
-path: "/hi-folks/"
+path: "/markdown-example/"
 categories:
   - Markdown
 ---
@@ -17,6 +17,8 @@ look like:
   * this one
   * that one
   * the other one
+
+<!--more-->
 
 ## An h2 header
 content starts at 4-columns in.
