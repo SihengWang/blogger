@@ -62,7 +62,7 @@ export const pageQuery = graphql`
         description
         url: siteUrl
         author
-        twitter
+        # twitter
         adsense
       }
     }
@@ -76,6 +76,7 @@ export const pageQuery = graphql`
             path
             categories
             date(formatString: "YYYY/MM/DD")
+            description
           }
         }
       }

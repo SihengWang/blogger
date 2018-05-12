@@ -1,15 +1,13 @@
 ---
-title: Markdown
+title: Git特殊技能使用
 date: "2018-05-13T04:20:00"
 layout: post
 path: "/git-special-skill/"
 categories:
-  - Markdown
-  - Movable Type
-description: "Civil society; save lives pathway to a better life public-private partnerships solution, tackle, protect UNHCR social movement Jane Addams sustainable campaign respond equality."
+  - Git
+  - Developer Tool
+description: "Git除了常规的使用外，还有很多平时不常用的功能，例如Git仓库迁移、多个commit合并之类的"
 ---
-
-# Git 特殊技能
 
 ## Git 迁移 - 从一个git仓库迁移到另外一个git仓库
 
