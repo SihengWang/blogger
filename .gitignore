@@ -6,3 +6,5 @@ public
 .cache/
 .vscode/
 yarn.lock
+
+.idea
